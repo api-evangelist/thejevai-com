@@ -1,0 +1,29 @@
+aid: thejevai-com
+name: Jev AI
+description: 'Jev AI is a company surfaced via the API Evangelist harvest backlog (source: new-submission)
+  and added to the network as a stub for full-pipeline profiling.'
+url: https://artifacts.apis.io/thejevai-com/apis.yml
+x-type: company
+x-source: harvest:new-submission
+x-tier: stub
+x-tier-reason: harvest
+specificationVersion: '0.20'
+created: '2026-11-24'
+modified: '2026-11-24'
+tags:
+- Company
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: https://thejevai.com
+- type: Documentation
+  url: https://thejevai.com/docs
+x-submission-notes: 'Jev AI is a TypeSafe AI System One model and developer platform for turning shared
+  state into typed decisions with probabilities. It supports classification, routing, scoring, safety
+  checks, and agent workflows through an online playground, SDK, or REST API. Playground: https://thejevai.com/playgrou'
+x-submission-probe: docs/spec 200, invented path 404 (2026-11-24)
